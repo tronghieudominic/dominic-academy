@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Dominic Academy",
+      "hasCanvas": false,
+      "bodyTextLen": 298,
+      "bodyTextHash": "b0ead82d590ef72c4111a14a27530c6c846db08b6189aa4b4a3365cd3277a841",
+      "bodyTextPrefix": "Hôm nay bạn muốn học gì? Đã lưu Mã truy cập Chào mừng đến với Do",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Dominic Academy",
+      "hasCanvas": false,
+      "bodyTextLen": 304,
+      "bodyTextHash": "a3ac302b2158f96d55c59873ce63125ae39d22911c4d15106ef5954677e6d5fc",
+      "bodyTextPrefix": "Hôm nay bạn muốn học gì? Chào mừng đến với Dominic Academy Chọn ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

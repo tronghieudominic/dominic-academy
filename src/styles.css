@@ -1,0 +1,21 @@
+@import "tailwindcss";
+@import "./dominic.css";
+
+@theme {
+  --color-bg: #f5f7fb;
+  --color-surface: #ffffff;
+  --color-fg: #0f172a;
+  --color-muted: #64748b;
+  --color-primary: #3b8fc4;
+  --color-primary-hover: #2f7aab;
+  --color-border: #e8ecf1;
+  --radius: 0.75rem;
+  --font-sans: "Inter", "Roboto", "Segoe UI", Arial, sans-serif;
+}
+
+@layer base {
+  button:not(:disabled),
+  [role="button"]:not(:disabled) {
+    cursor: pointer;
+  }
+}
